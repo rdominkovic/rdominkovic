@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mongodb,nodejs )](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,express,nodejs,mongodb)](https://skills.thijs.gg)
